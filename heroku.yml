@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: docker run -v ${PWD}:/app -v /app/node_modules -p 3001:3000 --rm reactimage:dev
+  web: docker run -v ${PWD}:/app -v /app/node_modules -p 3001
