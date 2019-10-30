@@ -27,4 +27,4 @@ Acknowledgements
 * [How to Deploy React Application on docker?](https://www.youtube.com/watch?v=O3SvhpnSZWY)
 * [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24)
 * [Dockerizing a Node.js web app](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
-
+* [Dockerizing a React App](https://mherman.org/blog/dockerizing-a-react-app/)
